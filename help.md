@@ -1,3 +1,5 @@
+# .ENV ???
+
 npm install next-auth @next-auth/prisma-adapter @prisma/client bcrypt
 npm install -g prisma
 
